@@ -1,0 +1,93 @@
+
+.title-underline-base-color {
+    border-color: pink;
+}
+.title-underline-thick-base-color {
+    border-color: pink;
+}
+.title-sideline-base-color:before {
+    background-color: pink;
+}
+.title-strikethrough-base-color:before {
+    background-color: pink;
+}
+
+
+.text-base-color {
+    color: pink !important;
+}
+
+.text-hover-base-color:hover,
+.text-hover-base-color:focus {
+    color: pink !important;
+}
+
+.bg-base-color {
+    background-color: pink !important;
+}
+
+
+.bg-hover-base-color:hover {
+    background-color: pink !important;
+}
+
+
+.border-base-color {
+    border-color: pink !important;
+}
+
+.btn.btn-base-color {
+    background-color: pink;
+}
+.btn.btn-base-color.btn-hover-transparent:hover {
+    border-color: pink;
+    color: pink;
+}
+.btn.btn-outline-base-color {
+    border-color: pink;
+    color: pink;
+}
+.btn.btn-outline-base-color:hover,
+.btn.btn-outline-base-color:focus {
+    background-color: pink;
+}
+.btn.btn-outline-base-color.btn-hover-transparent:hover,
+.btn.btn-outline-base-color.btn-hover-transparent:focus {
+    color: pink;
+}
+
+
+.pace .pace-progress {
+    background-color: pink;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    background-color: pink !important;
+}
+
+.nav.nav-pills.nav-stacked > li.active > a,
+.nav.nav-pills.nav-stacked > li.active > a:hover,
+.nav.nav-pills.nav-stacked > li.active > a:focus {
+    background-color: pink;
+    color: #ffffff;
+}
+
+.panel-group .panel.active .panel-heading {
+    background-color: pink;
+}
+
+.countdown .clock-item {
+    background-color: pink;
+}
+
+.pricing ul > li.check-mark:before {
+    background-color: pink;
+}
+
+
+.timeline-item.highlight:before {
+    background-color: pink;
+    border: pink;
+}
